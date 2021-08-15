@@ -1,5 +1,5 @@
 #include <iostream>
-
+//아이패드로분석완료
 #ifndef __BINARY_SEARCH_TREE2_H__
 #define __BINARY_SEARCH_TREE2_H__
 
